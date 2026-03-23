@@ -1,6 +1,6 @@
 # nextjs-project-template-basic
 
-This project was bootstrapped with a custom "Bleeding Edge" template.
+This project was bootstrapped with a custom template.
 
 ## ⚡ Tech Stack
 
